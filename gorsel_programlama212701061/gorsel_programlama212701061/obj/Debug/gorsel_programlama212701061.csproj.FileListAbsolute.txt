@@ -1,0 +1,11 @@
+C:\Users\Firat\Desktop\C# Sinf\gorsel_programlama212701061\gorsel_programlama212701061\obj\Debug\gorsel_programlama212701061.csproj.AssemblyReference.cache
+C:\Users\Firat\Desktop\C# Sinf\gorsel_programlama212701061\gorsel_programlama212701061\obj\Debug\gorsel_programlama212701061.Form1.resources
+C:\Users\Firat\Desktop\C# Sinf\gorsel_programlama212701061\gorsel_programlama212701061\obj\Debug\gorsel_programlama212701061.Form2.resources
+C:\Users\Firat\Desktop\C# Sinf\gorsel_programlama212701061\gorsel_programlama212701061\obj\Debug\gorsel_programlama212701061.Properties.Resources.resources
+C:\Users\Firat\Desktop\C# Sinf\gorsel_programlama212701061\gorsel_programlama212701061\obj\Debug\gorsel_programlama212701061.csproj.GenerateResource.cache
+C:\Users\Firat\Desktop\C# Sinf\gorsel_programlama212701061\gorsel_programlama212701061\obj\Debug\gorsel_programlama212701061.csproj.CoreCompileInputs.cache
+C:\Users\Firat\Desktop\C# Sinf\gorsel_programlama212701061\gorsel_programlama212701061\bin\Debug\gorsel_programlama212701061.exe.config
+C:\Users\Firat\Desktop\C# Sinf\gorsel_programlama212701061\gorsel_programlama212701061\bin\Debug\gorsel_programlama212701061.exe
+C:\Users\Firat\Desktop\C# Sinf\gorsel_programlama212701061\gorsel_programlama212701061\bin\Debug\gorsel_programlama212701061.pdb
+C:\Users\Firat\Desktop\C# Sinf\gorsel_programlama212701061\gorsel_programlama212701061\obj\Debug\gorsel_programlama212701061.exe
+C:\Users\Firat\Desktop\C# Sinf\gorsel_programlama212701061\gorsel_programlama212701061\obj\Debug\gorsel_programlama212701061.pdb
